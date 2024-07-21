@@ -1273,3 +1273,23 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+.research-interests {
+  margin-top: 20px;
+}
+
+.research-interests .badge {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-size: 0.9em;
+  padding: 8px 12px;
+}
+
+.personal-links .btn {
+  padding: 5px 10px;
+  font-size: 0.9em;
+}
+
+.personal-links .btn i {
+  margin-right: 5px;
+}
